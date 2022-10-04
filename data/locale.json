@@ -1,0 +1,8 @@
+{
+  "Matching following video:": "现在正在匹配",
+  "Parsing audio feature of complete video...": "正在为完整版视频提取音频特征,请耐心等待...",
+  "Audio feature of complete video has been parsed": "完整版视频音频特征已提取",
+  "Parsing audio feature of clipped video...": "正在为删减版视频提取音频特征,请耐心等待...",
+  "Audio feature of clipped video has been parsed": "完整版视频音频特征已提取",
+  "Matching audio features...": "开始匹配音频特征"
+}
