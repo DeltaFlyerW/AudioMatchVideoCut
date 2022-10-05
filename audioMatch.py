@@ -377,9 +377,9 @@ class VideoAudio:
               lang="en"):
 
         if lang == "en":
-            messages = locale.keys()
+            messages = list(locale.keys())
         else:
-            messages = locale.values()
+            messages = list(locale.values())
 
         pClipedVideo = fpath(pClipedVideo)
         pOriginVideo = fpath(pOriginVideo)
